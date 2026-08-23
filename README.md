@@ -7,7 +7,7 @@
 
 SheetPilot AI is a production-quality, security-first spreadsheet automation copilot designed to empower non-technical users to perform complex data operations. By utilizing natural language and voice, it provides safe, predictable, and deterministic spreadsheet transformations without the risk of arbitrary code execution.
 
-[Live Demo](https://sheetpilot-ai-qnkbhcr5ltapj7tztktgp6.streamlit.app/)
+[Live Demo](https://sheetpilot-ai-pqsk4nrnphfvkwk6rkct6a.streamlit.app/)
 
 ---
 
